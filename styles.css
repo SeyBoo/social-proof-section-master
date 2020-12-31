@@ -95,9 +95,17 @@ body {
 .card-name {
     margin-left: 15px;
 }
+
+.card-name h3 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
 .card-name h5 {
     color:hsl(333, 80%, 67%);
     margin-top: -15px;
+    font-size: .8rem;
+    font-weight: 500;
 }
 
 .card-img img {
