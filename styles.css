@@ -77,7 +77,6 @@ body {
 .ratings-card {
     display:flex;
     justify-content: space-around;
-    flex-wrap: wrap;
 }
 
 .card-profile {
